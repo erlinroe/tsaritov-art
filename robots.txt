@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://erlinroe.github.io/tsaritov-art/sitemap.xml
+Sitemap: https://tsaritov.online/sitemap.xml
